@@ -1,0 +1,7 @@
+data/
+lightning_logs/
+runs/
+saved_models/
+
+*.png
+!img/
