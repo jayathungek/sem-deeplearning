@@ -1,5 +1,7 @@
 *cache*
-data/
+data/metmuseum
+data/MNIST/*
+!data/MNIST/create_csv.sh
 lightning_logs/
 runs/
 saved_models/
